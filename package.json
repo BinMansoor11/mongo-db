@@ -1,6 +1,8 @@
 {
-  "name": "NodeJs",
+  "name": "mongo-db",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/BinMansoor11/mongo-db.git",
+  "author": "Talha Mansoor <talhaulhaque53@gmail.com>",
   "license": "MIT"
 }

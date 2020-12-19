@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/BinMansoor11/mongo-db.git",
   "author": "Talha Mansoor <talhaulhaque53@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.11.8"
+  }
 }

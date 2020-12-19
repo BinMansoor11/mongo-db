@@ -1,5 +1,5 @@
-var modules = require('./modules')
+var modules = require("./modules");
 
-var { greet } = modules
+var { greet } = modules;
 
-greet('helloooo')
+greet("helloooo");
